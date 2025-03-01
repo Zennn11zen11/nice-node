@@ -4,6 +4,8 @@ Set up an Ethereum node in no-time on every modern computer without any technica
 
 For the latest information, visit https://nicenode.xyz
 
+0x1978728F49035542020db29Dc63b5Ca3a5399b2D
+https://app.binance.com/uni-qr/cpro/Square-Creator-b08e6bfc5a87?l=en&r=818739537&uc=app_square_share_link&us=more
 [![Downloads](https://badgen.net/badge/icon/alpha?label=downloads)](https://www.nicenode.xyz/#download)
 [![Github All Releases](https://img.shields.io/github/downloads/NiceNode/nice-node/total.svg)]()
 [![gitpoap badge](https://public-api.gitpoap.io/v1/repo/NiceNode/nice-node/badge)](https://www.gitpoap.io/gh/NiceNode/nice-node)
